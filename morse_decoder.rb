@@ -31,25 +31,16 @@ def decode_char(str)
   morse_code_hash[str]
 end
 
-puts decode_char('.')
-
 # Function to decode into a word
 def decode_to_word(string)
   string_arr = string.split
-  result = ''
+  result = ""
   string_arr.each { |char| result += decode_char(char) }
-  "#{result}"
+  result
 end
 
-puts decode_to_word('-- -.--')
-
-# Function to decode into a sentence
 def decoder(str)
-  arr_of_words = str.split('   ')
-  final_sentence = ''
-  arr_of_words.each do |word|
-    final_sentence += decode_to_word(word)
-  end
-  puts final_sentence
+  puts str.split('  ').map { |word| decode_to_word(word) }.join(' ')
 end
+
 print decoder('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
