@@ -28,7 +28,7 @@ def decode_char(str)
     '-.--' => 'Y',
     '--..' => 'Z'
   }
-  morse_code_hash[string]
+  morse_code_hash[str]
 end
 
 puts decode_char('.')
@@ -36,9 +36,9 @@ puts decode_char('.')
 # Function to decode into a word
 def decode_to_word(string)
   string_arr = string.split
-  final_string = ''
-  string_arr.each { |char| final_string += decode_char(char) }
-  "#{final_string}"
+  result = ''
+  string_arr.each { |char| result += decode_char(char) }
+  "#{result}"
 end
 
 puts decode_to_word('-- -.--')
