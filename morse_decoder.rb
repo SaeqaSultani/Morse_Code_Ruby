@@ -14,7 +14,7 @@ end
 # Function to decode into a word
 def decode_to_word(string)
   string_arr = string.split
-  result = ""
+  result = ''
   string_arr.each { |char| result += decode_char(char) }
   result.to_s
 end

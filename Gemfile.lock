@@ -25,11 +25,7 @@ GEM
     unicode-display_width (2.3.0)
 
 PLATFORMS
-<<<<<<< HEAD
   x86_64-darwin-19
-=======
-  x64-mingw-ucrt
->>>>>>> 0400788a89782c60d3a226af22395dc560f2e1a8
 
 DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
