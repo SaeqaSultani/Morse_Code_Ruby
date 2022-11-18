@@ -12,13 +12,19 @@ Morse code project is using Ruby to find secret message.
 
 - GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
 - Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
-- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani-b41493187/)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
 
 👤 **Sonick Mumba**
 
 - GitHub: [Sonick Mumba](https://github.com/Sonickmumba)
 - LinkedIn: [Sonick Mumba](https://www.linkedin.com/in/sonick-m-301557a2/)
 - Twitter: [Sonick Mumba](https://twitter.com/MumbaSonick)
+
+👤 **Eva Lavinia Bucur**
+
+- GitHub: [Eva Lavinia Bucur](https://github.com/BucurEva87)
+- LinkedIn: [Eva Lavinia Bucur](https://www.linkedin.com/in/eva-lavinia-bucur/)
+- Twitter: [Eva Lavinia Bucur](https://twitter.com/BucurEva)
 
 ## Show your support
 
