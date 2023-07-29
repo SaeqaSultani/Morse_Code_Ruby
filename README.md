@@ -2,9 +2,7 @@
 Morse code project is using Ruby to find the secret message.
 
 # Built With
-
 - Ruby
-- 
 ## Authors
 
 👤 **SaeqaSultani**
