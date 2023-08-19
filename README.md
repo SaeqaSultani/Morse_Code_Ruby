@@ -6,7 +6,6 @@ Morse code project is using Ruby to find the secret message.
 
 👤 **SaeqaSultani**
 
-
 - GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
 - Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
 - LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
